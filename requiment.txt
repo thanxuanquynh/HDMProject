@@ -1,0 +1,4 @@
+virtualenv==20.4.4
+Flask==1.1.2
+mysql-connector-python==8.0.24
+related==0.7.2
